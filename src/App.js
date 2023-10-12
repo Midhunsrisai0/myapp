@@ -43,9 +43,7 @@ let students=[
     
    <Routes>
     <Route path="/" element={<Home/>}/>
-    <Route path="/Shorts" element={<Shorts/>}>
-    
-    </Route>
+    <Route path="/Shorts" element={<Shorts/>}/>
     </Routes>   
    </div>
    {/* </store.Provider> */}

@@ -17,6 +17,15 @@
     "name": "typicode"
   },
   "users": [
-    
+    {
+      "name": "MSS",
+      "roll": "624",
+      "id": 1
+    },
+    {
+      "name": "psr",
+      "roll": "654",
+      "id": 2
+    }
   ]
 }
